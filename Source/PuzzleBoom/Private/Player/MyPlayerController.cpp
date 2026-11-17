@@ -6,4 +6,7 @@
 AMyPlayerController::AMyPlayerController()
 {
 	bShowMouseCursor = true;
+	
+	bEnableTouchEvents = bEnableClickEvents = true;
+	bEnableTouchOverEvents = bEnableMouseOverEvents = true;
 }
