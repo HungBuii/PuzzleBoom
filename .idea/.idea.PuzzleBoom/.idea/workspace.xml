@@ -14,7 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1bf0731-e89c-4615-83ce-1412e78029eb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PuzzleBoom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PuzzleBoom/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/InGame.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/InGame.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1794912337256</updated>
       <workItem from="1794912338331" duration="1000" />
-      <workItem from="1794912636236" duration="1872000" />
+      <workItem from="1794912636236" duration="2709000" />
     </task>
     <servers />
   </component>
